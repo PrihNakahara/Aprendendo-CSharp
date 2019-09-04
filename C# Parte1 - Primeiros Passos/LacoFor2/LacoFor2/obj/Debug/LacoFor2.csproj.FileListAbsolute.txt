@@ -1,0 +1,6 @@
+C:\Users\PriscilaSON\source\repos\LacoFor2\LacoFor2\bin\Debug\LacoFor2.exe.config
+C:\Users\PriscilaSON\source\repos\LacoFor2\LacoFor2\bin\Debug\LacoFor2.exe
+C:\Users\PriscilaSON\source\repos\LacoFor2\LacoFor2\bin\Debug\LacoFor2.pdb
+C:\Users\PriscilaSON\source\repos\LacoFor2\LacoFor2\obj\Debug\LacoFor2.csproj.CoreCompileInputs.cache
+C:\Users\PriscilaSON\source\repos\LacoFor2\LacoFor2\obj\Debug\LacoFor2.exe
+C:\Users\PriscilaSON\source\repos\LacoFor2\LacoFor2\obj\Debug\LacoFor2.pdb

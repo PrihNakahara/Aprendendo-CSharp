@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestaPontoFlutuante", "TestaPontoFlutuante\TestaPontoFlutuante.csproj", "{EDBBE8E8-5D08-41A7-8097-009EA1D83187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDBBE8E8-5D08-41A7-8097-009EA1D83187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBBE8E8-5D08-41A7-8097-009EA1D83187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBBE8E8-5D08-41A7-8097-009EA1D83187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBBE8E8-5D08-41A7-8097-009EA1D83187}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F092AF1D-1BD9-46AA-A391-458D21AE758F}
+	EndGlobalSection
+EndGlobal

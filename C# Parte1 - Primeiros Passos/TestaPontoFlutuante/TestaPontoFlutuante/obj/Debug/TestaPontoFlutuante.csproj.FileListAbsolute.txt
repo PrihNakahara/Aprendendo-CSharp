@@ -1,0 +1,6 @@
+C:\Users\PriscilaSON\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\bin\Debug\TestaPontoFlutuante.exe.config
+C:\Users\PriscilaSON\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\bin\Debug\TestaPontoFlutuante.exe
+C:\Users\PriscilaSON\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\bin\Debug\TestaPontoFlutuante.pdb
+C:\Users\PriscilaSON\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\PriscilaSON\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.exe
+C:\Users\PriscilaSON\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.pdb

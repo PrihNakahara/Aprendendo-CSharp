@@ -1,0 +1,6 @@
+C:\Users\PriscilaSON\source\repos\Multiplos3\Multiplos3\bin\Debug\Multiplos3.exe.config
+C:\Users\PriscilaSON\source\repos\Multiplos3\Multiplos3\bin\Debug\Multiplos3.exe
+C:\Users\PriscilaSON\source\repos\Multiplos3\Multiplos3\bin\Debug\Multiplos3.pdb
+C:\Users\PriscilaSON\source\repos\Multiplos3\Multiplos3\obj\Debug\Multiplos3.csproj.CoreCompileInputs.cache
+C:\Users\PriscilaSON\source\repos\Multiplos3\Multiplos3\obj\Debug\Multiplos3.exe
+C:\Users\PriscilaSON\source\repos\Multiplos3\Multiplos3\obj\Debug\Multiplos3.pdb

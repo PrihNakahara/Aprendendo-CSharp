@@ -1,0 +1,7 @@
+C:\Users\PriscilaSON\source\repos\AliquotaIf\AliquotaIf\bin\Debug\AliquotaIf.exe.config
+C:\Users\PriscilaSON\source\repos\AliquotaIf\AliquotaIf\bin\Debug\AliquotaIf.exe
+C:\Users\PriscilaSON\source\repos\AliquotaIf\AliquotaIf\bin\Debug\AliquotaIf.pdb
+C:\Users\PriscilaSON\source\repos\AliquotaIf\AliquotaIf\obj\Debug\AliquotaIf.csprojAssemblyReference.cache
+C:\Users\PriscilaSON\source\repos\AliquotaIf\AliquotaIf\obj\Debug\AliquotaIf.csproj.CoreCompileInputs.cache
+C:\Users\PriscilaSON\source\repos\AliquotaIf\AliquotaIf\obj\Debug\AliquotaIf.exe
+C:\Users\PriscilaSON\source\repos\AliquotaIf\AliquotaIf\obj\Debug\AliquotaIf.pdb
